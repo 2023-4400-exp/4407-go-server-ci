@@ -15,5 +15,5 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: newtochiman/go-server-ci
+      - image: 4407-go-server-ci:c4053d8fb00339d37c81fd10a2c48e1dc2cc86a6
         name: go-server-ci
